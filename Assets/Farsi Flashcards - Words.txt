@@ -1,0 +1,785 @@
+id|English|Pinglish|Farsi|Category|Difficulty
+1|hello/hi|salām|سلام|Greetings|Easy
+2|Mrs./Miss|khānom|خانم|Greetings|Easy
+3|Mr.|āqā|آقا|Greetings|Easy
+4|Good morning|sob bekheīr|صبح بخیر|Greetings|Easy
+5|Good night|shab bekheīr|شب بخیر|Greetings|Easy
+6|Good bye|khodā hāfez|خداحافظ|Greetings|Easy
+7|How are you? (formal)|hāle shomā chetor ast?|حال شما چطور است؟|Greetings|Easy
+8|How are you? (colloquial/familiar)|hāle shomā chetore?|حال شما چطوره؟|Greetings|Easy
+9|Thank you|mercī||Greetings|Easy
+10|Thank you|motshakeram|متشکرم|Greetings|Easy
+11|(and) how are you? (formal)|shomā chetor hastīd?|شما چطور هستید؟|Greetings|Easy
+12|(and) how are you? (colloquial/familiar)|shomā chetorīn?|شما چطورین؟|Greetings|Easy
+13|(and) how are you? (colloquial/familiar)|to chetorī?|تو چطوری؟|Greetings|Easy
+14|I am fine, too. (formal)|man ham khūb hastam|من هم خوب هستم|Greetings|Easy
+15|I am fine, too. (colloquial/familiar)|manam khūbam|منم خوبم|Greetings|Easy
+16|Excuse me|bebakhshīd|ببخشید|Greetings|Easy
+17|I am John.|man jān hastam|من جان هستم|Introducing Yourself|Easy
+18|My name is John.|esm-e man jān ast.|اسم من جان است|Introducing Yourself|Easy
+19|What is your name? (formal)|esm-e shomā chīst?|اسم شما چیست؟|Introducing Yourself|Easy
+20|What is your name? (colloquial)|esm-e shomā chīye?|اسم شما چیه؟|Introducing Yourself|Easy
+21|Pleased to meet you.|khoshvaqtam|خوشوقتم|Introducing Yourself|Easy
+22|How old are you?|chand sāletone?|چند سالتونه؟|Introducing Yourself|Easy
+23|Where do you live?|kojā zendegī mīkonīd?|کجا زندگی می کنید؟|Introducing Yourself|Easy
+24|Where do you go to school?|kojā dars mīkonīd?|کجا درس می خوانید؟|Introducing Yourself|Easy
+25|What do you do for a living?|che kār mīkonīd? shoγletān chīst?|چه کار می کنید؟|Introducing Yourself|Easy
+26|What do you do for a living?|shoγletān chīst?|شغلتان چیست؟|Introducing Yourself|Easy
+27|college student|dāneshjo|دانشجو|Introducing Yourself|Easy
+28|professor|ostād|استاد|Introducing Yourself|Easy
+29|teacher|moalem|معلم|Introducing Yourself|Easy
+30|doctor|doktor|دکتر|Introducing Yourself|Easy
+31|engineer|mohandes|مهندس|Introducing Yourself|Easy
+32|dentist|dandānpezeshk|دندانپزشک|Introducing Yourself|Easy
+33|journalist|roznāme negār|روزنامه نگار|Introducing Yourself|Easy
+34|pre-college student|dānesh āmoz|دانش آموز|Introducing Yourself|Easy
+35|architect|memār/ārshītekt|معمار/آرشیتکت|Introducing Yourself|Easy
+36|lawyer|vakīl|وکیل|Introducing Yourself|Easy
+37|nurse|parastar|پرستار|Introducing Yourself|Easy
+38|to live|zendegī kardan|زندگی کردن|Introducing Yourself|Easy
+39|to introduce|moarefī kardan|معرفی کردن|Introducing Yourself|Easy
+40|to count|shomordan|شمردن|Introducing Yourself|Easy
+41|Zero|sefr|۰|Numbers 1-100|Easy
+42|One|yek|١|Numbers 1-100|Easy
+43|Two|do|۲|Numbers 1-100|Easy
+44|Three|se|۳|Numbers 1-100|Easy
+45|Four|chāhār|۴|Numbers 1-100|Easy
+46|Five|panj|۵|Numbers 1-100|Easy
+47|Six|shesh|۶|Numbers 1-100|Easy
+48|Seven|haft|۷|Numbers 1-100|Easy
+49|Eight|hasht|۸|Numbers 1-100|Easy
+50|Nine|noh|۹|Numbers 1-100|Easy
+51|Ten|dah|۱۰|Numbers 1-100|Easy
+52|Eleven|yāzdah|۱۱|Numbers 1-100|Easy
+53|Twelve|davāzdah|۱۲|Numbers 1-100|Easy
+54|Thirteen|sizdah|۱۳|Numbers 1-100|Easy
+55|Fourteen|chāhārdah|۱۴|Numbers 1-100|Easy
+56|Fifteen|pānzdah|۱۵|Numbers 1-100|Easy
+57|Sixteen|shānzdah|۱۶|Numbers 1-100|Easy
+58|Seventeen|hefdah/hevdah|۱۷|Numbers 1-100|Easy
+59|Eighteen|hejdah/hezhdah|۱۸|Numbers 1-100|Easy
+60|Nineteen|nūzdah|۱۹|Numbers 1-100|Easy
+61|Twenty|bist|۲۰|Numbers 1-100|Easy
+62|Twenty One|bisto yek|۲۱|Numbers 1-100|Easy
+63|Twenty Two|bisto do|۲۲|Numbers 1-100|Easy
+64|Twenty Three|bisto se|۲٣|Numbers 1-100|Easy
+65|Twenty Four|bisto chāhār|۲۴|Numbers 1-100|Easy
+66|Twenty Five|bisto panj|۲۵|Numbers 1-100|Easy
+67|Twenty Six|bisto shesh|۲۶|Numbers 1-100|Easy
+68|Twenty Seven|bisto haft|۲۷|Numbers 1-100|Easy
+69|Twenty Eight|bisto hash|۲٨|Numbers 1-100|Easy
+70|Twenty Nine|bisto noh|۲٩|Numbers 1-100|Easy
+71|Thirty|si|۳۰|Numbers 1-100|Easy
+72|Forty|chehel|٤۰|Numbers 1-100|Easy
+73|Fifty|panjāh|۵۰|Numbers 1-100|Easy
+74|Sixty|shast|۶۰|Numbers 1-100|Easy
+75|Seventy|haftād|۷۰|Numbers 1-100|Easy
+76|Eighty|hashtād|۸۰|Numbers 1-100|Easy
+77|Ninety|navad|۹۰|Numbers 1-100|Easy
+78|One Hundred|sad|١۰۰|Numbers 1-100|Easy
+79|One Hundred|sad|۱٠٠|Numbers 100-900|Easy
+80|One Hundred and Ten|sado dah|۱۱٠|Numbers 100-900|Easy
+81|One Hundred and Twenty|sado bīst|۱۲٠|Numbers 100-900|Easy
+82|One Hundred and Thirty|sado sī|۱٣٠|Numbers 100-900|Easy
+83|One Hundred and Forty|sado chehel|۱۴٠|Numbers 100-900|Easy
+84|One Hundred and Fifty|sado panjāh|۱۵٠|Numbers 100-900|Easy
+85|One Hundred and Sixty Five|sado shāsto panj|۱۶۵|Numbers 100-900|Easy
+86|Two Hundred|devīst|۲٠٠|Numbers 100-900|Easy
+87|Three Hundred|sīsad|٣٠٠|Numbers 100-900|Easy
+88|Four Hundred|chāhārsad|۴٠٠|Numbers 100-900|Easy
+89|Five Hundred|pānsad|۵٠٠|Numbers 100-900|Easy
+90|Six Hundred|sheshsad|۶٠٠|Numbers 100-900|Easy
+91|Seven Hundred|haftsad|۷٠٠|Numbers 100-900|Easy
+92|Eight Hundred|hashtsad|٨٠٠|Numbers 100-900|Easy
+93|Nine Hundred|nohsad|٩٠٠|Numbers 100-900|Easy
+94|father (formal) |pedar|پدر|Family|Easy
+95|father (informal/familiar)|bābā|بابا|Family|Easy
+96|mother (formal)|mādar|مادر|Family|Easy
+97|mother (informal/familiar)| māmān|مامان|Family|Easy
+98|child|kudak/farzand/bache|کودک/ فرزند/ بچّه|Family|Easy
+99|wife|zan/khānom|زن/ خانم|Family|Easy
+100|husband|shohar|شوهر|Family|Easy
+101|spouse|hamsar|همسر|Family|Easy
+102|family|khânevâde|خانواده|Family|Easy
+103|parents|pedar va mādar|پدر و مادر|Family|Easy
+104|son/boy|pesar|پسر|Family|Easy
+105|daughter/girl|dokhtar|دختر|Family|Easy
+106|brother|barādar|برادر|Family|Easy
+107|sister|khāhar|خواهر|Family|Easy
+108|grandfather|pedarbozorg|پدربزرگ|Family|Easy
+109|grandmother|mādarbozorg|مادربزرگ|Family|Easy
+110|paternal uncle|amū|عمو|Family|Easy
+111|maternal uncle|dāee|دایی|Family|Easy
+112|maternal aunt|khaleh|خاله|Family|Easy
+113|paternal aunt|ameh|عمه|Family|Easy
+114|nephew (brother's side)|pesar-e barādar|پسرِبرادر|Family|Easy
+115|nephew (sister's side)|pesar-e khāhar|پسرِخواهر|Family|Easy
+116|niece (brother's side)|dokhtar-e barādar|دخترِبرادر|Family|Easy
+117|niece (sister's side)|dokhtar-e khāhar|دخترِِخواهر|Family|Easy
+118|cousin (paternal uncle’s son) |pesar amū|پسر عمو|Family|Easy
+119|cousin (paternal aunt’s daughter) c|dokhtar ameh|دختر عمه|Family|Easy
+120|cousin (maternal uncle’s son) |pesar dāee|پسر دایی|Family|Easy
+121|cousin (maternal aunt’s daughter)|dokhtar khaleh|دختر خاله|Family|Easy
+122|relative|khīšāvand|خویشاوند|Family|Easy
+123|fiancé|nāmzad|نامزد|Family|Easy
+124|step-father|nāpedarī|ناپدری|Family|Easy
+125|step-mother|nāmādarī|نامادری|Family|Easy
+126|father-in-law (husband's side)|pedarshohar|پدرشو|Family|Easy
+127|father-in-law (wife's side)|pedarzan|پدرهر|Family|Easy
+128|mother-in-law (husband's side)|mādarshohar|مادرشو|Family|Easy
+129|mother-in-law (wife's side)|mādarzan|مادرهر|Family|Easy
+130|husband's brother (brother-in-law)|barâdarshowhar|برادرشوهر|Family|Easy
+131|wife's brother (brother-in-law)|barâdarzan|برادرزن|Family|Easy
+132|husband's sister (sister-in-law)|khwâharshowhar|خواهرشوهر|Family|Easy
+133|wife's sister (sister-in-law)|khwâharzan|خواهرزن|Family|Easy
+134|husband of wife's sister (brother-in-law)|bâjenâgh|باجناق|Family|Easy
+135|wife of husband's brother (sister-in-law)|jâri|جاری|Family|Easy
+136|brother's child (nephew, niece)|barâdarzâde|برادرزاده|Family|Easy
+137|sister's child (nephew, niece)|khwâharzâde|خواهرزاده|Family|Easy
+138|brother's son (nephew)|pesar-e barâdar|پسر برادر|Family|Easy
+139|brother's son (nephew)|pesar-e khwâhar|پسر خواهر|Family|Easy
+140|brother's daughter (niece)|dokhtar-e barâdar|دختر برادر|Family|Easy
+141|brother's daughter (niece)|dokhtar-e khwâhar|دختر خواهر|Family|Easy
+142|friend|dūst|دوست|Family|Easy
+143|boy friend|dūst-e pesar|دوست پسر|Family|Easy
+144|girl friend|dūst-e dokhtar|دوست دختر|Family|Easy
+145|grandfather|pedarbozorg|پدربزرگ|Family|Easy
+146|grandmother|mâdarbozorg|مادربزرگ|Family|Easy
+147|grandparents|pedarbozorg o mâdarbozorg|پدربزرگ و مادربزرگ|Family|Easy
+148|great grandfather|pedarjadd|پدرجد|Family|Easy
+149|great grandmother|mâdarjadd|مادرجد|Family|Easy
+150|grandchild|nave|نوه|Family|Easy
+151|great grandchild|natije|نتیجه|Family|Easy
+152|great great grandchild|nabire|نبیره|Family|Easy
+153|great great great grandchild|nadide|ندیده|Family|Easy
+154|daughter's husband (son-in-law)|dâmâd|داماد|Family|Easy
+155|son's wife (daughter-in-law)|arus|عروس|Family|Easy
+156|child of maternal uncle|dâyizâde|دایی‌زاده|Family|Easy
+157|son of maternal uncle (cousin)|pesardâyi|پسردایی|Family|Easy
+158|daughter of maternal uncle (cousin)|dokhtardâyi|دختردایی|Family|Easy
+159|wife of maternal uncle|zandâyi|زن‌دایی|Family|Easy
+160|child of maternal aunt|khâlezâde|خاله‌زاده|Family|Easy
+161|son of maternal aunt (cousin)|pesarkhâle|پسرخاله|Family|Easy
+162|daughter of maternal aunt (cousin)|dokhtarkhâle|دخترخاله|Family|Easy
+163|husband of maternal aunt|showharkhâle|شوهرخاله|Family|Easy
+164|child of paternal uncle|amuzâde|عموزاده|Family|Easy
+165|son of paternal uncle (cousin)|pesaramu|پسرعمو|Family|Easy
+166|daughter of paternal uncle (cousin)|dokhtaramu|دخترعمو|Family|Easy
+167|wife of paternal uncle|zanamu|زن‌عمو|Family|Easy
+168|child of paternal aunt|ammezâde|عمه‌زاده|Family|Easy
+169|son of paternal aunt (cousin)|pesaramme|پسرعمه|Family|Easy
+170|daughter of paternal aunt (cousin)|dokhtaramme|دخترعمه|Family|Easy
+171|husband of paternal aunt|showharamme|شوهرعمه|Family|Easy
+172|stepfather|nâpedari|ناپدری|Family|Easy
+173|stepmother|nâmâdari|نامادری|Family|Easy
+174|stepson|nâpesari|ناپسری|Family|Easy
+175|stepdaughter|nâdokhtari|نادختری|Family|Easy
+176|stepbrother|nâbarâdari|نابرادری|Family|Easy
+177|stepsister|nâkhwâhari|ناخواهری|Family|Easy
+178|consanguineous|tani|تنی|Family|Easy
+179|non-consanguineous|nâtani|ناتنی|Family|Easy
+180|adoptive father|pedarkhwânde|پدرخوانده|Family|Easy
+181|adoptive mother|mâdarkhwânde|مادرخوانده|Family|Easy
+182|adoptive son|pesarkhwânde|پسرخوانده|Family|Easy
+183|adoptive daughter|dokhtarkhwânde|دخترخوانده|Family|Easy
+184|adoptive brother|barâdarkhwânde|برادرخوانده|Family|Easy
+185|adoptive sister|khwâharkhwânde|خواهرخوانده|Family|Easy
+186|What is your favorite pastime?|sargarmī-e mored-e alāqe-ye shomā chīye?|سرگرمی مورد علاقه شما چیه؟|Personal Questions|Easy
+187|What is your telephone/cell phone number?|shomāre telephon/ telephon-e hamrāh-e shomā chande?|شماره تلفن/تلفن همراه شما چنده؟|Personal Questions|Easy
+188|What grade are you in?|kelās-e chandomī?|کلاس چندمی؟|Personal Questions|Easy
+189|How do you spell your last name?|fāmīl-e shomā rā chetorī mīnevīsand?|فامیل شما را چطوری می نویسند؟|Personal Questions|Easy
+190|How many siblings do you have?|chand tā khāhar vā barādar dārīd?|چند تا خواهر و برادر دارید؟|Personal Questions|Easy
+191|Where?|kojā?|کجا؟|Personal Questions|Easy
+192|When?|kay?|کِی؟|Personal Questions|Easy
+193|Who? What?|che kasī?/ kī che?|چه کسی؟/ کی؟ چه؟|Personal Questions|Easy
+194|How?|chegone?|چگونه؟|Personal Questions|Easy
+195|Which?|kodām?|کدام؟|Personal Questions|Easy
+196|Why?|cherā?|چرا؟|Personal Questions|Easy
+197|How many?|chand tā?|چند تا؟|Personal Questions|Easy
+198|to listen|gosh dādan|گوش دادن|Pastimes|Easy
+199|music|mūzīk|موزیک|Pastimes|Easy
+200|to sing|āvāz khādan|آواز خواندن|Pastimes|Easy
+201|to dance|raqsīdan|رقصیدن|Pastimes|Easy
+202|to read|khāndan/motale’ kardan|خواندن/مطالعه کردن|Pastimes|Easy
+203|to study|dars khāndan|درس خواندن|Pastimes|Easy
+204|to stay at home|dar khane māndan|در خانه ماندن|Pastimes|Easy
+205|to like|dūst dāshtan|دوست داشتن|Pastimes|Easy
+206|to watch television|televīzyon tamāshā kardan|تلویزیون تماشا کردن|Pastimes|Easy
+207|to telephone|telefon zadan/ telefon kardan|تلفن زدن/ تلفن کردن|Pastimes|Easy
+208|to speak|sohbat kardan/ harf zadan|صحبت کردن/ حرف زدن|Pastimes|Easy
+209|to play sports|varzesh kardan|ورزش کردن|Pastimes|Easy
+210|tennis|tenīs|تنیس|Pastimes|Easy
+211|soccer|fotbāl|فوتبال|Pastimes|Easy
+212|basketball|basketbāl|بسکتبال|Pastimes|Easy
+213|volleyball|vālībāl|والیبال|Pastimes|Easy
+214|to play the guitar|gītār zadan|گیتار زدن|Pastimes|Easy
+215|piano|pīyāno|پیانو|Pastimes|Easy
+216|violin|vīyolon|ویولُن|Pastimes|Easy
+217|dulcimer|santūr|سنتور|Pastimes|Easy
+218|to swim|shenā kardan|شنا کردن|Pastimes|Easy
+219|to work|kār kardan|کار کردن|Pastimes|Easy
+220|to travel|safar kardan/ mosāferat kardan|سفرکردن/ مسافرت کردن|Pastimes|Easy
+221|walking|pīyāderavī|پیاده روی|Pastimes|Easy
+222|boating|qāyeqrānī|قایق رانی|Pastimes|Easy
+223|gardening|bāqbānī|باغبانی|Pastimes|Easy
+224|to introduce|moarefī kardan|معرفی کردن|Pastimes|Easy
+225|Where were you born?|kojā bedonyā ūmadīd?|کجا بدنیا آمدید؟|Continents and Countries|Easy
+226|North America|āmrīkāy-e shomālī|آمریکای شمالی|Continents and Countries|Easy
+227|Canada|kānādā|کانادا|Continents and Countries|Easy
+228|United States|āmrīkā|آمریکا|Continents and Countries|Easy
+229|Mexico|mekzīk|مکزیک|Continents and Countries|Easy
+230|Africa|āfrīqā|آفریقا|Continents and Countries|Easy
+231|Algeria|aljazīre|الجزیره|Continents and Countries|Easy
+232|Egypt|mesr|مصر|Continents and Countries|Easy
+233|South Africa|āfrīqāy-e jonobī|آفریقای جنوبی|Continents and Countries|Easy
+234|Morocco|marākesh|مراکش|Continents and Countries|Easy
+235|South America|āmrīkāy-e jonobī|آمریکای جنوبی|Continents and Countries|Easy
+236|Brazil|berezīl|برزیل|Continents and Countries|Easy
+237|Peru|perū|پرو|Continents and Countries|Easy
+238|Argentina|ārzhāntīn|آرژانتین|Continents and Countries|Easy
+239|Europe|orūpā|اروپا|Continents and Countries|Easy
+240|England|engelīs/engelestān|انگلیس/انگلستان|Continents and Countries|Easy
+241|France|belzhīk|فرانسه|Continents and Countries|Easy
+242|Belgium|belzhīk|بلژیک|Continents and Countries|Easy
+243|Italy|ītālīyā|ایتالیا|Continents and Countries|Easy
+244|Germany|ālmān|آلمان|Continents and Countries|Easy
+245|Spain|espānīyā|اسپانیا|Continents and Countries|Easy
+246|Switzerland|sūīs|سویس|Continents and Countries|Easy
+247|Asia|āsīyā|آسیا|Continents and Countries|Easy
+248|China|chīn|چین|Continents and Countries|Easy
+249|Japan|zhāpon|ژاپن|Continents and Countries|Easy
+250|India|hend/hendostān|هند/هندوستان|Continents and Countries|Easy
+251|Afghanistan|afghānestān|افغانستان|Continents and Countries|Easy
+252|Turkey|torkīye|ترکیه|Continents and Countries|Easy
+253|Tajikistan|tājīkestān|تاجیکستان|Continents and Countries|Easy
+254|Pakistan|pākestān|پاکستان|Continents and Countries|Easy
+255|Oceania|oqyānūsīye|اقیانوسیه|Continents and Countries|Easy
+256|Australia|ostorālīyā|استرالیا|Continents and Countries|Easy
+257|Where are you from?|ahl-e kojāīd?|اهل کجایید؟/کجایی هستید؟|Nationalities and Languages|Easy
+258|What is the French people’s language?|zabān-e mardom-e farānse chīst?|زبان مردم فرانسه چیست؟|Nationalities and Languages|Easy
+259|French|farānsavī|فرانسوی|Nationalities and Languages|Easy
+260|Iranian|īrānī|ایرانی |Nationalities and Languages|Easy
+261|Farsi|fārsī|فارسی|Nationalities and Languages|Easy
+262|American|āmrīkāī|آمریکایی |Nationalities and Languages|Easy
+263|(American or British) English|englīsī|انگلیسی|Nationalities and Languages|Easy
+264|Italian|ītālīyāī|ایتالیایی|Nationalities and Languages|Easy
+265|German|ālmānī|آلمانی|Nationalities and Languages|Easy
+266|British|englīsī|انگلیسی|Nationalities and Languages|Easy
+267|Spanish (origin)|espānīyaī|اسپانیای|Nationalities and Languages|Easy
+268|Spanish (language)|espānyolī|اسپانیولی|Nationalities and Languages|Easy
+269|Japanese|zhāponī|ژاپنی|Nationalities and Languages|Easy
+270|Arab|arab|عرب |Nationalities and Languages|Easy
+271|Arabic|arabī|عربی|Nationalities and Languages|Easy
+272|Indian|hendī|هندی|Nationalities and Languages|Easy
+273|Turkish (origin)|tork|ترک |Nationalities and Languages|Easy
+274|Turkish (language)|torkī|ترکی|Nationalities and Languages|Easy
+275|Egyptian (origin)|mesrī|مصری|Nationalities and Languages|Easy
+276|Chinese|chīnī|چینی|Nationalities and Languages|Easy
+277|Pakistani|pākestānī|پاکستانی|Nationalities and Languages|Easy
+278|Urdu|ordū|اردو|Nationalities and Languages|Easy
+279|Afghan (origin)|afghānī|افغانی|Nationalities and Languages|Easy
+280|Dari|darī|دری|Nationalities and Languages|Easy
+281|Russian|rūsī|روسی|Nationalities and Languages|Easy
+282|Yellow|zard|زرد|Colors|Easy
+283|White|sefīd|سفید|Colors|Easy
+284|Pink|sūratī|صورتی|Colors|Easy
+285|Red|qermez|قرمز|Colors|Easy
+286|Orange|nāranjī|نارنجی|Colors|Easy
+287|Green|sabz|سبز|Colors|Easy
+288|Blue|ābī|آبی|Colors|Easy
+289|Violet|banafsh|بنفش|Colors|Easy
+290|Silver|noqreī|نقره ای|Colors|Easy
+291|Brown|qahveī|قهوه ای|Colors|Easy
+292|Gold|talāī|طلایی|Colors|Easy
+293|Black|sīyāh/meshkī|سیاه یا مشکی|Colors|Easy
+294|Grey|khākestarī|خاکستری|Colors|Easy
+295|fruit|mive|میوه||Easy
+296|plum|âlu|آلو||Easy
+297|mango|anbe|انبه|Fruits|Easy
+298|pomegranate|anār|انار|Fruits|Easy
+299|pineapple|ānānās|آناناس|Fruits|Easy
+300|sour cherry|ālbālū|آلبالو|Fruits|Easy
+301|raspberry|tameshk|تمشک|Fruits|Easy
+302|orange|porteqāl|پرتقال|Fruits|Easy
+303|quīnce|beh|به|Fruits|Easy
+304|grape|angūr|انگور|Fruits|Easy
+305|apricot|zardālū|زردآلو|Fruits|Easy
+306|melon|kharboze|خربزه|Fruits|Easy
+307|strawberry|tūtfarangī|توت فرنگی|Fruits|Easy
+308|berry, mulberry|tūt|توت|Fruits|Easy
+309|nectarine|shalīl|شلیل|Fruits|Easy
+310|blackberry|shāhtūt|شاه توت|Fruits|Easy
+311|apple|sīb|سیب|Fruits|Easy
+312|barberry|zereshk|زرشک|Fruits|Easy
+313|banana|moz|موز|Fruits|Easy
+314|cherry|gīlās|گیلاس|Fruits|Easy
+315|plum|ālū|آلو|Fruits|Easy
+316|pear|golābī|گلابی|Fruits|Easy
+317|watermelon|hendavāne|هندوانه|Fruits|Easy
+318|peach|holū|هلو|Fruits|Easy
+319|tangerine|nārangī|نارنگی|Fruits|Easy
+320|onion|pīyāz|پیاز|Vegetables & Herbs|Easy
+321|pennyroyal|pone|پونه|Vegetables & Herbs|Easy
+322|eggplant|bādemjān|بادمجان|Vegetables & Herbs|Easy
+323|spinach|esfanāj|اسفناج|Vegetables & Herbs|Easy
+324|parsley|jafarī|جعفری|Vegetables & Herbs|Easy
+325|tarragon|tarkhān|ترخان|Vegetables & Herbs|Easy
+326|radish|torobche|تربچه|Vegetables & Herbs|Easy
+327|green onion|pīyāzche|پیازچه|Vegetables & Herbs|Easy
+328|basil|reyhān|ریحان|Vegetables & Herbs|Easy
+329|corn|zorrat or balal|ذرّت|Vegetables & Herbs|Easy
+330|cucumber|khīyār|خیار|Vegetables & Herbs|Easy
+331|beet|choghondar|چغندر|Vegetables & Herbs|Easy
+332|turnip|shevīd|شوید|Vegetables & Herbs|Easy
+333|garlic|sīr|سیر|Vegetables & Herbs|Easy
+334|potato|sībzamīnī|سیب زمینی|Vegetables & Herbs|Easy
+335|lettuce|kāhū|کاهو|Vegetables & Herbs|Easy
+336|mushroom|qārch|قارچ|Vegetables & Herbs|Easy
+337|bell pepper|felfeldolmeī|فلفل دلمه ایی|Vegetables & Herbs|Easy
+338|pepper|felfel|فلفل|Vegetables & Herbs|Easy
+339|cabbage|kalam|کلم|Vegetables & Herbs|Easy
+340|celery|karafs|کرفس|Vegetables & Herbs|Easy
+341|pumpkin|kadūtanbal|کدو تنبل|Vegetables & Herbs|Easy
+342|zucchini, squash|kadū|کدو|Vegetables & Herbs|Easy
+343|green bean|lūbīyāsabz|لوبیا سبز|Vegetables & Herbs|Easy
+344|tomato|gojefarangī|گوجه فرنگی|Vegetables & Herbs|Easy
+345|cauliflower|golkalam|گل کلم|Vegetables & Herbs|Easy
+346|coriander|geshnīz|گشنیز|Vegetables & Herbs|Easy
+347|mint|nanā|نعناع|Vegetables & Herbs|Easy
+348|peas, snow peas|nokhodfarangī|نخود فرنگی|Vegetables & Herbs|Easy
+349|asparagus|mārchūbe|مارچوبه|Vegetables & Herbs|Easy
+350|lemon, lime|līmū|لیمو|Vegetables & Herbs|Easy
+351|carrot|havīj|هویج|Vegetables & Herbs|Easy
+352|bread|nān|نان|Processed Foods|Easy
+353|cheese|panīr|پنیر|Processed Foods|Easy
+354|butter|kare|کره|Processed Foods|Easy
+355|milk|shīr|شیر|Processed Foods|Easy
+356|yoghurt|māst|ماست|Processed Foods|Easy
+357|egg|tokhm-e morgh|تخم مرغ|Processed Foods|Easy
+358|three-minute egg|okhm-e morgh-e asalī|تخم مرغ عسلی|Processed Foods|Easy
+359|sunny side up eggs|nīmrū|نیمرو|Processed Foods|Easy
+360|hard boiled egg|tokhm-e morgh-e ābpaz|تخم مرغ آب پز|Processed Foods|Easy
+361|scrambled eggs|khāgīne|خاگینه|Processed Foods|Easy
+362|omelet|omlet|املت|Processed Foods|Easy
+363|olive|zeytūn|زیتون|Processed Foods|Easy
+364|fish|māhī|ماهی|Processed Foods|Easy
+365|sardines|sārdīn|ساردین|Processed Foods|Easy
+366|shrimp, prawn|meygū|میگو|Processed Foods|Easy
+367|tuna|ton-e māhī|تن ماهی|Processed Foods|Easy
+368|beef|gūsht-e gāv|گوشت گاو|Processed Foods|Easy
+369|lamb|gūsht-e gūsfand|گوشت گوسفند|Processed Foods|Easy
+370|shwarma|kabāb-e torkī|کباب ترکی|Processed Foods|Easy
+371|chicken, hen|morgh|مرغ|Processed Foods|Easy
+372|sandwich|sāndevīch|ساندویچ|Processed Foods|Easy
+373|hot dog|sosīs|سوسیس|Processed Foods|Easy
+374|hamburger|hāmberger|هامبرگر|Processed Foods|Easy
+375|soup|sūp|سوپ|Processed Foods|Easy
+376|pizza|pītzā|پیتزا|Processed Foods|Easy
+377|macaroni, pasta|mākārūnī|ماکارونی|Processed Foods|Easy
+378|potato chips|chīps|چیپس|Processed Foods|Easy
+379|French fries|sībzamīnī-ye sorkhkarde|سیب زمینی سرخ کرده|Processed Foods|Easy
+380|black tea|chāy|چای|Drinks & Sweets|Easy
+381|coffee|qahve|قهوه|Drinks & Sweets|Easy
+382|sugar|shekar|شکر|Drinks & Sweets|Easy
+383|sugar cube’|qand|قند|Drinks & Sweets|Easy
+384|water|āb|آب|Drinks & Sweets|Easy
+385|soft drink|nūshābe|نوشابه|Drinks & Sweets|Easy
+386|hard candy|ābnabāt|آب نبات|Drinks & Sweets|Easy
+387|chocolate|shokolāt|شکلات|Drinks & Sweets|Easy
+388|jam|morabbā|مربّا|Drinks & Sweets|Easy
+389|ice cream|bastanī|بستنی|Drinks & Sweets|Easy
+390|jello|zhele|ژله|Drinks & Sweets|Easy
+391|lollipop|ābnabātchūbī|آب نبات چوبی|Drinks & Sweets|Easy
+392|cake|keyk|کیک|Drinks & Sweets|Easy
+393|cookie, biscuit|bīskūīt|بیسکویت|Drinks & Sweets|Easy
+394|donut|donāt|دونات|Drinks & Sweets|Easy
+395|plate|boshqāb|بشقاب|At the Table|Easy
+396|bowl|kāse|کاسه|At the Table|Easy
+397|fork|changāl|چنگال|At the Table|Easy
+398|spoon|qāshoq|قاشق|At the Table|Easy
+399|knife|kārd|کارد|At the Table|Easy
+400|glass|līvān|لیوان|At the Table|Easy
+401|cup|fenjān|فنجان|At the Table|Easy
+402|kitchen|āshpazkhane|آشپزخانه|At the Table|Easy
+403|cooking|āshpazī|آشپزی|At the Table|Easy
+404|meal|ghazā|غذا|At the Table|Easy
+405|breakfast|sobhāne|صبحانه|At the Table|Easy
+406|lunch|nāhār|ناهار|At the Table|Easy
+407|dinner, supper|shām|شام|At the Table|Easy
+408|to cook|āshpazī kardan|آشپزی کردن|At the Table|Easy
+409|to cook|ghazā dorost kardan|غذا درست کردن|At the Table|Easy
+410|to cook|ghazā pokhtan|غذا پختن|At the Table|Easy
+411|to eat|khordan|خوردن|At the Table|Easy
+412|to have a meal|ghazā khordan|غذا خوردن|At the Table|Easy
+413|to grill|kabāb kardan|کباب کردن|At the Table|Easy
+414|to invite to dinner|be shām davat kardan|به شام دعوت کردن|At the Table|Easy
+415|to do the dishes|zarf shostan|ظرف شستن|At the Table|Easy
+416|to go groccery shopping|kharīd-e mavād-e ghazaī|خرید مواد غذایی|At the Table|Easy
+417|to have time|vaqt dāshtan|وقت داشتن|At the Table|Easy
+418|to want|khāstan|خواستن|At the Table|Easy
+419|to come|āmadan|آمدن|At the Table|Easy
+420|to see|dīdan|دیدن|At the Table|Easy
+421|Accounting|hesābdāri|حسابداری|Fields of Study|Easy
+422|Anthropology|ensānshenāsi|انسان‌شناسی|Fields of Study|Easy
+423|Art History|tārikh-e honar|تاریخ هنر|Fields of Study|Easy
+424|Biology|biolozhi|بیولوژی|Fields of Study|Easy
+425|Biology|zistshenāsi|زیست‌شناسی|Fields of Study|Easy
+426|Business|bāzargāni|بازرگانی|Fields of Study|Easy
+427|Chemistry|shimi|شیمی|Fields of Study|Easy
+428|Computer Science|‘olum-e kāmpyutar|علوم کامپیوتر|Fields of Study|Easy
+429|Education|ta’lim o tarbiyat|تعلیم و تربیت|Fields of Study|Easy
+430|Engineering|mohandesi|مهندسی|Fields of Study|Easy
+431|Electrical Engineering|mohandesi-ye barq|مهندسی برق|Fields of Study|Easy
+432|Mechanical Engineering|mohandesi-ye mekānik|مهندسی مکانیک|Fields of Study|Easy
+433|Petroleum Engineering|mohandesi-ye naft|مهندسی نفت|Fields of Study|Easy
+434|English|engelesi|انگلسی|Fields of Study|Easy
+435|History|tarikh|تاریخ|Fields of Study|Easy
+436|Journalism|ruznāmeh-negāri|روزنامه‌نگاری|Fields of Study|Easy
+437|Library Science|ketābshenāsi|کتاب‌شناسی|Fields of Study|Easy
+438|Linguistics|zabānshenāsi|زبان‌شناسی|Fields of Study|Easy
+439|Mathematics|riāzi|ریاضی|Fields of Study|Easy
+440|Medicine|pezeshki|پزشکی|Fields of Study|Easy
+441|Middle Eastern Studies|khāvar-miāneh shenāsi|خاور‌میانه‌شناسی|Fields of Study|Easy
+442|Persian|fārsi|فارسی|Fields of Study|Easy
+443|Philosophy|felsefeh|فلسفه|Fields of Study|Easy
+444|Physics|fizik|فیزیک|Fields of Study|Easy
+445|Political Science, Government|‘olum-e siāsi|علوم سیاسی|Fields of Study|Easy
+446|Psychology|ravānshenāsi|روان‌شناسی|Fields of Study|Easy
+447|Sociology|jām’eh shenāsi|جامعه‌شناسی|Fields of Study|Easy
+448|University|dāneshgāh|دانشگاه|On Campus|Easy
+449|School|madreseh|مدرسه|On Campus|Easy
+450|High School|dabirestān|دبیرستان|On Campus|Easy
+451|Elementary School|dabestān|دبستان|On Campus|Easy
+452|Student (college)|dāneshjū|دانشجو|On Campus|Easy
+453|Student (pre-college)|dāneshāmuz|دانش آموز|On Campus|Easy
+454|Bachelor’s degree|lisāns|لیسانس|On Campus|Easy
+455|Master’s degree|foq-e lisāns|فوق لیسانس|On Campus|Easy
+456|Doctorate|doktorā|دکترا|On Campus|Easy
+457|Lesson|dars|درس|On Campus|Easy
+458|Major|reshteh|رشته|On Campus|Easy
+459|Class|kelās|کلاس|On Campus|Easy
+460|Room|otāq|اتاق|On Campus|Easy
+461|Book|ketāb|کتاب|On Campus|Easy
+462|Pen|qalam|قلم|On Campus|Easy
+463|Pen|khodkār|خودکار|On Campus|Easy
+464|Pencil|medād|مداد|On Campus|Easy
+465|Blackboard|takhte siāh|تخته‌ سیاه|On Campus|Easy
+466|Chalk|gach|گچ|On Campus|Easy
+467|Notebook / Office|daftar|دفتر|On Campus|Easy
+468|Paper|kāghez|کاغذ|On Campus|Easy
+469|Bag, briefcase|kif|کیف|On Campus|Easy
+470|Teacher|mo’allem|معلَم|On Campus|Easy
+471|Professor|ostād|استاد|On Campus|Easy
+472|Doctor (i.e., Ph.D.)|doktor|دکتر|On Campus|Easy
+473|Okay|bāsheh|باشه|On Campus|Easy
+474|Okay (more formal)|chashp|چشپ|On Campus|Easy
+475|To read|khāndan|خواندن|On Campus|Easy
+476|He reads|mi-khānad|می‌خواند|On Campus|Easy
+477|To study (i.e. review lessons)|dars khāndan|درس خواندن|On Campus|Easy
+478|To study (a subject)|khāndan|خواندن|On Campus|Easy
+479|We study Persian|fārsi mi-khānim|فارسی می‌خوانیم|On Campus|Easy
+480|To read aloud|boland khāndan|بلند خواندن|On Campus|Easy
+481|To repeat|tekrār kardan|تکرار کردن|On Campus|Easy
+482|To say|goftan|گفتن|On Campus|Easy
+483|They say|mi-gūyand|می‌گویند|On Campus|Easy
+484|Time|vaqt|وقت|Time|Easy
+485|Hour / clock|sā’at|ساعت|Time|Easy
+486|Now|hālā|حالا|Time|Easy
+487|Now|alān|الآن|Time|Easy
+488|Approximately|taqriban|تقریباً|Time|Easy
+489|Exactly|dorost|درست|Time|Easy
+490|What time is it?|sā’at chand-e?|ساعت چنده؟|Time|Easy
+491|It is 4:00|sā’at-e chahār-e|ساعت چهاره|Time|Easy
+492|Minute|daqiqeh|دقیقه|Time|Easy
+493|Second|sānieh|ثانیه|Time|Easy
+494|Half|nim|نیم|Time|Easy
+495|Quarter|rob’|ربع|Time|Easy
+496|Morning|sobh|صبح|Time|Easy
+497|This morning|emruz sobh|امروز صبح|Time|Easy
+498|Night|shab|شب|Time|Easy
+499|Tonight|emshab|امشب|Time|Easy
+500|Late afternoon / early evening|‘asr|عصر|Time|Easy
+501|Afternoon|ba’d az zohr|بعد از ظهر|Time|Easy
+502|Week|hafteh|هفته|Time|Easy
+503|Next week|hafteh-ye digar|هفتهٔ دیگر|Time|Easy
+504|Last week|hafteh-ye pish|هفتهٔ پیش|Time|Easy
+505|Per week|hafteh-i|هفته‌ای|Time|Easy
+506|Day|ruz|روز|Time|Easy
+507|Today|emruz|امروز|Time|Easy
+508|Tomorrow|fardā|فردا|Time|Easy
+509|Yesterday|diruz|دیروز|Time|Easy
+510|Day before yesterday|pariruz|پریروز|Time|Easy
+511|Per day|ruzi|روزی|Time|Easy
+512|Every day|har ruz|هر روز|Time|Easy
+513|Month|māh|ماه|Time|Easy
+514|Year|sāl|سال|Time|Easy
+515|Next year|sāl-e digar|سال دیگر|Time|Easy
+516|Last year|pārsāl|پارسال|Time|Easy
+517|invertebrate|bimohre|بی‌مهره|Animal Classes|Easy
+518|bird|parande|پرنده|Animal Classes|Easy
+519|mammal|pestândâr|پستاندار|Animal Classes|Easy
+520|insect|hashare|حشره|Animal Classes|Easy
+521|reptile|khazande|خزنده|Animal Classes|Easy
+522|crustacean|sakhtpust|سخت‌پوست|Animal Classes|Easy
+523|fish|mâhi|ماهی|Animal Classes|Easy
+524|vertebrate|mohredâr|مهره‌دار|Animal Classes|Easy
+525|mollusk|narmtan|نرم‌تن|Animal Classes|Easy
+526|duck|ordak|اردک|Birds|Easy
+527|nightingale|bolbol|بلبل|Birds|Easy
+528|turkey|bughalamun|بوقلمون|Birds|Easy
+529|penguin|panguan|پنگوئن|Birds|Easy
+530|owl|joghd|جغد|Birds|Easy
+531|chick|juje|جوجه|Birds|Easy
+532|rooster|khorus|خروس|Birds|Easy
+533|bat|khoffâsh|خفاش|Birds|Easy
+534|woodpecker|dârkub|دارکوب|Birds|Easy
+535|hawk|shâhin|شاهین|Birds|Easy
+536|ostrich|shotormorgh|شترمرغ|Birds|Easy
+537|peacock|tâvus|طاووس|Birds|Easy
+538|parrot|tuti|طوطی|Birds|Easy
+539|eagle|oghâb|عقاب|Birds|Easy
+540|goose|ghâz|غاز|Birds|Easy
+541|pheasant|gharghâvol|قرقاول|Birds|Easy
+542|canary|ghanâri|قناری|Birds|Easy
+543|swan|ghu|قو|Birds|Easy
+544|pigeon|kabutar|کبوتر|Birds|Easy
+545|sparrow|gonjeshk|گنجشک|Birds|Easy
+546|crow|kalâgh|کلاغ|Birds|Easy
+547|stork|laklak|لک‌لک|Birds|Easy
+548|hen|morgh|مرغ|Birds|Easy
+549|butterfly|parvâne|پروانه|Insects|Easy
+550|mosquito|pashe|پشه|Insects|Easy
+551|cricket|jirjirak|جیرجیرک|Insects|Easy
+552|bee, wasp|zanbur|زنبور|Insects|Easy
+553|dragonfly|sanjâghak|سنجاقک|Insects|Easy
+554|cockroach|susk|سوسک|Insects|Easy
+555|ladybug|kafshduzak|کفش‌دوزک|Insects|Easy
+556|fly|magas|مگس|Insects|Easy
+557|grasshopper|malakh|ملخ|Insects|Easy
+558|ant|murche|مورچه|Insects|Easy
+559|termite|muriyâne|موریانه|Insects|Easy
+560|swordfish|arremâhi|اره‌ماهی|Marine Animals|Easy
+561|hippopotamus|asb-e âbi|اسب آبی|Marine Animals|Easy
+562|sea horse|asb-e daryâyi|اسب دریایی|Marine Animals|Easy
+563|crocodile|temsâh|تمساح|Marine Animals|Easy
+564|crab|kharchang|خرچنگ|Marine Animals|Easy
+565|dolphin|dolfin|دلفین|Marine Animals|Easy
+566|leech|zâlu|زالو|Marine Animals|Easy
+567|starfish|setâre-ye daryâyi|ستاره‌ی دریایی|Marine Animals|Easy
+568|alligator|susmâr|سوسمار|Marine Animals|Easy
+569|oyster|sadaf|صدف|Marine Animals|Easy
+570|frog|ghurbâghe|قورباغه|Marine Animals|Easy
+571|shark|kuse|کوسه|Marine Animals|Easy
+572|turtle|lâkposht|لاک‌پشت|Marine Animals|Easy
+573|eel|mârmâhi|مارماهی|Marine Animals|Easy
+574|shrimp|meygu|میگو|Marine Animals|Easy
+575|whale|nahang|نهنگ|Marine Animals|Easy
+576|octopus|hashtpâ|هشت‌پا|Marine Animals|Easy
+577|horse|asb|اسب|Land Animals|Easy
+578|gazelle|âhu|آهو|Land Animals|Easy
+579|tiger|babr|ببر|Land Animals|Easy
+580|lamb|barre|برّه|Land Animals|Easy
+581|goat|boz|بز|Land Animals|Easy
+582|panther|palang|پلنگ|Land Animals|Easy
+583|hedgehog|jujetighi|جوجه‌تیغی|Land Animals|Easy
+584|snail|halazun|حلزون|Land Animals|Easy
+585|donkey|khar|خر|Land Animals|Easy
+586|bear|khers|خرس|Land Animals|Easy
+587|rabbit|khargush|خرگوش|Land Animals|Easy
+588|pig|khuk|خوک|Land Animals|Easy
+589|fox|rubâh|روباه|Land Animals|Easy
+590|giraffe|zarrâfe|زرافه|Land Animals|Easy
+591|dog|sag|سگ|Land Animals|Easy
+592|squirrel|sanjâb|سنجاب|Land Animals|Easy
+593|camel|shotor|شتر|Land Animals|Easy
+594|lion|shir|شیر|Land Animals|Easy
+595|scorpion|aghrab|عقرب|Land Animals|Easy
+596|spider|ankabut|عنکبوت|Land Animals|Easy
+597|elephant|fil|فیل|Land Animals|Easy
+598|kangaroo|kângoro|کانگورو|Land Animals|Easy
+599|worm|kerm|کرم|Land Animals|Easy
+600|hyena|kaftâr|کفتار|Land Animals|Easy
+601|cow|gâv|گاو|Land Animals|Easy
+602|cat|gorbe|گربه|Land Animals|Easy
+603|wolf|gorg|گرگ|Land Animals|Easy
+604|zebra|gurekhar|گورخر|Land Animals|Easy
+605|deer|gavazn|گوزن|Land Animals|Easy
+606|calf|gusâle|گوساله|Land Animals|Easy
+607|sheep|gusfand|گوسفند|Land Animals|Easy
+608|snake|mâr|مار|Land Animals|Easy
+609|lizard|mârmulak|مارمولک|Land Animals|Easy
+610|mouse|mush|موش|Land Animals|Easy
+611|monkey|meymun|میمون|Land Animals|Easy
+612|centipede|hezârpâ|هزارپا|Land Animals|Easy
+613|leopard|yuz(palang)|یوز(پلنگ)|Land Animals|Easy
+614|yes|bale|بله|Basic Phrases|Easy
+615|no|na|نه|Basic Phrases|Easy
+616|please|lotfan|لطفا|Basic Phrases|Easy
+617|Thanks|mersi|مرسی|Basic Phrases|Easy
+618|Thanks|mamnun|ممنون|Basic Phrases|Easy
+619|Many thanks|kheyli mamnun|خیلی ممنون|Basic Phrases|Easy
+620|You're welcome|khwâhesh mikonam|خواهش می‌کنم|Basic Phrases|Easy
+621|Excuse me|bebakhshid|ببخشید|Basic Phrases|Easy
+622|Excuse me|maøzerat mikhwâham|بعذرت می‌خواهم|Basic Phrases|Easy
+623|I'm sorry|motaøsef-am|متأسف‌ام|Basic Phrases|Easy
+624|Hello, Hi|salâm|سلام|Meeting People|Easy
+625|Good day|ruz khosh|روز خوش|Meeting People|Easy
+626|Good day|ruz be kheyr|روز به خیر|Meeting People|Easy
+627|Good morning|sobh be kheyr|صبح به خیر|Meeting People|Easy
+628|Good noon|zohr be kheyr|ظهر به خیر|Meeting People|Easy
+629|Good afternoon|baød-az-zohr be kheyr|بعدازظهر به خیر|Meeting People|Easy
+630|Good evening|asr be kheyr|عصر به خیر|Meeting People|Easy
+631|Good night|shab be kheyr|شب به خیر|Meeting People|Easy
+632|Good night|shab khosh|شب خوش|Meeting People|Easy
+633|Have a good day|Ruz-e khub-i dâshte bâshid|روز خوبی داشته باشید|Meeting People|Easy
+634|Have a good day (familiar)|Ruz-e khub-i dâshte bâshi|روز خوبی داشته باشی|Meeting People|Easy
+635|Have a good night|shab-e khub-i dâshte bâshid|شب خوبی داشته باشید|Meeting People|Easy
+636|Have a good night (familiar)|shab-e khub-i dâshte bâshi|شب خوبی داشته باشی|Meeting People|Easy
+637|goodbye|Khodâ hâfez|خدا حافظ|Meeting People|Easy
+638|goodbye|Khodâ negahdâr|خدا نگه‌دار|Meeting People|Easy
+639|see you later (formal)|Baødan mibinam-etân|بعدا می‌بینم‌تان|Meeting People|Easy
+640|See you soon (formal)|Be zudi mibinam-etân|به زودی می‌بینم‌تان|Meeting People|Easy
+641|How are you? (formal)|hâl-etân che towr ast?|حال‌تان چه طور است؟|Meeting People|Easy
+642|How are you? (familiar)|hâl-at che towr ast?|حال‌ات چه طور است؟|Meeting People|Easy
+642|How are you? (familiar)|che towr-i?|چه طوری؟|Meeting People|Easy
+643|How are things?, How’s life|che khabar?|چه خبر؟|Meeting People|Easy
+644|I'm fine|khub-am|خوب‌ام|Meeting People|Easy
+645|so-so|bad nistam|بد نیستم|Meeting People|Easy
+646|What is your name? (formal)|esm-etân chi'st?|اسم‌تان چی‌ست؟|Meeting People|Easy
+647|What is your name? (familiar)|esm-at chi'st?|اسم‌ات چی‌ست؟|Meeting People|Easy
+648|My name is ——|—— hastam|—— هستم|Meeting People|Easy
+649|Nice to meet you|khoshbakht-am|خوشبخت‌ام|Meeting People|Easy
+650|I don't understand|nemifahmam|نمی‌فهمم|Problems|Easy
+651|I don't understand|motevajjeh nemishavam|متوجه نمی‌شوم|Problems|Easy
+652|I have forgotten|farâmush kardeam|فراموش کرده‌ام|Problems|Easy
+653|Please speak more slowly|Lotfan âhestetar harf bezanid|لطفا آهسته‌تر حرف بزنید|Problems|Easy
+654|I can't speak Persian [well]|nemitavânam [khub] Fârsi harf bezanam|نمی‌توانم [خوب] فارسی حرف بزنم|Problems|Easy
+655|Can you speak English?|mitavânid Engelisi harf bezanid?|می‌توانید انگلیسی حرف بزنید؟|Problems|Easy
+656|Is there someone here who speaks English?|injâ kas-i Engelisi midânad?|اینجا کسی انگلیسی می‌داند؟|Problems|Easy
+657|Look out!|movâzeb bâsh!|مواظب باش!|Problems|Easy
+658|Help!|komak!|کمک!|Problems|Easy
+659|Leave me alone!|tanhâ-yam begozâr|تنهایم بگذار|Problems|Easy
+660|Don't touch me!|be man dast nazan|به من دست نزن|Problems|Easy
+661|I'll call the police|zang mizanam be polis|زنگ می‌زنم به پلیس|Problems|Easy
+662|Police!|polis|پلیس|Problems|Easy
+663|Stop! thief!|âhây dozd!|آهای دزد|Problems|Easy
+664|I need your help|be komak-etân ehtiyâj dâram|به کمک‌تان احتیاج دارم|Problems|Easy
+665|It's an emergency|zaruri ast|ضروری است|Problems|Easy
+666|It's an emergency|fowri ast|فوری است|Problems|Easy
+667|I'm lost|gom shodeam|گم شده‌ام|Problems|Easy
+668|Go away!|borow kenâr|برو کنار|Problems|Easy
+669|I lost my bag|sâk-am râ gom kardeam|ساک‌ام را گم کرده‌ام|Problems|Easy
+670|I lost my wallet/purse|kif-am râ gom kardeam|کیف‌ام را گم کرده‌ام|Problems|Easy
+671|I'm sick|hâl-am bad ast|حال‌ام بد است|Problems|Easy
+672|I've been injured|zakhmi shodeam|زخمی شده‌ام|Problems|Easy
+673|I need a doctor|be doktor ehtiyâj dâram|به دکتر احتیاج دارم|Problems|Easy
+674|Can I use your phone?|mishavad az telefon-etân estefâde konam?|می‌شود از تلفن‌تان استفاده کنم؟|Problems|Easy
+675|bone|ostekhwân|استخوان|Body|Easy
+676|body|badan|بدن|Body|Easy
+677|back|posht|پشت|Body|Easy
+678|side|pahlu|پهلو|Body|Easy
+679|skin|pust|پوست|Body|Easy
+680|rib|dande|دنده|Body|Easy
+681|vessel|rag|رگ|Body|Easy
+682|intestine|rude|روده|Body|Easy
+683|chest|sine|سینه|Body|Easy
+684|lung|shosh|شش|Body|Easy
+685|abdomen|shekam|شکم|Body|Easy
+686|nerve|asab|عصب|Body|Easy
+687|heart|ghalb|قلب|Body|Easy
+688|liver|kabed|کبد|Body|Easy
+689|kidney|kolye|کلیه|Body|Easy
+690|waist|kamar|کمر|Body|Easy
+691|muscle|mâhiche|ماهیچه|Body|Easy
+692|bladder|massâne|مثانه|Body|Easy
+693|stomach|meøde|معده|Body|Easy
+694|brain|maghz|مغز|Body|Easy
+695|joint|mafsal|مفصل|Body|Easy
+696|navel|nâf|ناف|Body|Easy
+697|eyebrow|abru|ابرو|Body|Easy
+698|nose|bini|بینی|Body|Easy
+699|eyelid|pelk|پلک|Body|Easy
+700|forehead|pishâni|پیشانی|Body|Easy
+701|skull|jomjome|جمجمه|Body|Easy
+702|chin|châne|چانه|Body|Easy
+703|eye|cheshm|چشم|Body|Easy
+704|larynx|hanjare|حنجره|Body|Easy
+705|tooth|dandân|دندان|Body|Easy
+706|mouth|dahân|دهان|Body|Easy
+707|beard|rish|ریش|Body|Easy
+708|tongue|zabân|زبان|Body|Easy
+709|mustache|sebil|سبیل|Body|Easy
+710|head|sar|سر|Body|Easy
+711|face|surat|صورت|Body|Easy
+712|jaw|fak|فک|Body|Easy
+713|neck|gardan|گردن|Body|Easy
+714|throat|galu|گلو|Body|Easy
+715|ear|gush|گوش|Body|Easy
+716|cheek|gune|گونه|Body|Easy
+717|lip|lab|لب|Body|Easy
+718|cheek|lopp|لپ|Body|Easy
+719|gum|lase|لثه|Body|Easy
+720|eyelash|mozhe|مژه|Body|Easy
+721|hair|mu|مو|Body|Easy
+722|elbow|ârenj|آرنج|Body|Easy
+723|finger|angosht|انگشت|Body|Easy
+724|arm|bâzu|بازو|Body|Easy
+725|hand|dast|دست|Body|Easy
+726|armpit|zirbaghal|زیربغل|Body|Easy
+727|forearm|sâed|ساعد|Body|Easy
+728|shoulder|shâne|شانه|Body|Easy
+729|thumb|shast|شست|Body|Easy
+730|palm|kaf-e dast|کف دست|Body|Easy
+731|wrist|moch|مچ|Body|Easy
+732|nail|nâkhon|ناخن|Body|Easy
+733|toe|angosht-e pâ|انگشت پا|Body|Easy
+734|foot|pâ|پا|Body|Easy
+735|heel|pâshne|پاشنه|Body|Easy
+736|thigh|rân|ران|Body|Easy
+737|knee|zânu|زانو|Body|Easy
+738|calf|sâgh|ساق|Body|Easy
+739|ankle|ghuzak|قوزک|Body|Easy
+740|sole|kaf-e pâ|کف پا|Body|Easy
+741|color|rang|رنگ|Colors|Easy
+742|sky blue|âbi-ye âsemâni|آبی آسمانی|Colors|Easy
+743|blue|âbi|آبی|Colors|Easy
+744|brick red|âjori|آجری|Colors|Easy
+745|purple|arghavâni|ارغوانی|Colors|Easy
+746|beige|bezh|بژ|Colors|Easy
+747|violet|banafsh|بنفش|Colors|Easy
+748|gray|khâkestari|خاکستری|Colors|Easy
+749|khaki|khâki|خاکی|Colors|Easy
+750|date brown|khormâyi|خرمایی|Colors|Easy
+751|yellow|zard|زرد|Colors|Easy
+752|crimson|zereshki|زرشکی|Colors|Easy
+753|olive|zeytuni|زیتونی|Colors|Easy
+754|green|sabz|سبز|Colors|Easy
+755|vivid red|sorkh|سرخ|Colors|Easy
+756|navy blue|sormeyi|سرمه‌ای|Colors|Easy
+757|white|sefid|سفید|Colors|Easy
+758|black|siyâh|سیاه|Colors|Easy
+759|claret|sharâbi|شرابی|Colors|Easy
+760|chocolate brown|shokolâti|شکلاتی|Colors|Easy
+761|milky|shiri|شیری|Colors|Easy
+762|pink|surati|صورتی|Colors|Easy
+763|gold|talâyi|طلایی|Colors|Easy
+764|turquoise|firuzeyi|فیروزه‌ای|Colors|Easy
+765|red|ghermez|قرمز|Colors|Easy
+766|brown|ghahveyi|قهوه‌ای|Colors|Easy
+767|cream|kerem|کرم|Colors|Easy
+768|azure|lâjevardi|لاجوردی|Colors|Easy
+769|lemon|limuyi|لیمویی|Colors|Easy
+770|black|meshki|مشکی|Colors|Easy
+771|orange|nârenji|نارنجی|Colors|Easy
+772|silver|noghreyi|نقره‌ای|Colors|Easy
+773|indigo|nili|نیلی|Colors|Easy
+774|ruby|yâghuti|یاقوتی|Colors|Easy
+775|jade green|yashmi|یشمی|Colors|Easy
+776|north|shomâl|شمال|Directions|Easy
+777|south|jonub|جنوب|Directions|Easy
+778|east|shargh|شرق|Directions|Easy
+779|west|gharb|غرب|Directions|Easy
+780|northeast|shomâl-e sharghi|شمال شرقی|Directions|Easy
+781|northwest|shomâl-e gharbi|شمال غربی|Directions|Easy
+782|southeast|jonub-e sharghi|جنوب شرقی|Directions|Easy
+783|southwest|jonub-e gharbi|جنوب غربی|Directions|Easy
